@@ -1,7 +1,7 @@
 # DAN_pytorch
 ## 1. 介绍
 
-​        本项目为算法《Decoupled Attention Network for Text Recognition》的 pytorch 版本复现，原作者项目地址（https://github.com/Wang-Tianwei/Decoupled-attention-network）。需说明的是，本人只是对作者的项目进行了小修改，大部分和作者的一致，只是本人在跑作者的代码时很难工作。本项目，本人亲测可用，并且本人已进行自己的数据集的实验。
+​        本项目为算法《Decoupled Attention Network for Text Recognition》的 pytorch 版本复现，原作者项目地址（ https://github.com/Wang-Tianwei/Decoupled-attention-network  )。需说明的是，本人只是对作者的项目进行了小修改，大部分和作者的一致，只是本人在跑作者的代码时很难工作。本项目，本人亲测可用，并且本人已进行自己的数据集的实验。
 
 ## 2. 环境依赖
 
