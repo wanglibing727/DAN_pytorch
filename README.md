@@ -5,14 +5,14 @@
 
 ## 2. 环境依赖
 
-opencv_python==4.5.3.56
-torchvision==0.9.0
-numpy==1.21.1
-lmdb==1.2.1
-editdistance==0.5.3
-torch==1.8.0
-six==1.16.0
-Pillow==8.3.2
+opencv_python==4.5.3.56  
+torchvision==0.9.0  
+numpy==1.21.1  
+lmdb==1.2.1  
+editdistance==0.5.3  
+torch==1.8.0  
+six==1.16.0  
+Pillow==8.3.2  
 
 ## 3. 制作lmdb数据集
 
